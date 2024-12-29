@@ -3,15 +3,15 @@ A fun, interactive Python game where players guess which celebrity, influencer, 
 
 ## Features
 - Randomized Gameplay:
- - Each round features two randomly selected accounts from a dataset.
+ -- Each round features two randomly selected accounts from a dataset.
 - Account Descriptions:
- - Provides details about each account, including name, description, and country.
+ -- Provides details about each account, including name, description, and country.
 - Follower Comparison:
- - Players guess which account has more followers.
+ -- Players guess which account has more followers.
 - Score Tracking:
- - Keeps track of your streak, increasing your score for every correct answer.
+ -- Keeps track of your streak, increasing your score for every correct answer.
 - Replayability:
- - Continues until the player guesses incorrectly, displaying the final score.
+ -- Continues until the player guesses incorrectly, displaying the final score.
 
 ## How it works
 1. Start the Game:
